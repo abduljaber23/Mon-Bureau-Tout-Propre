@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Mon Bureau Tout Propre, nettoyage de bureau sur mesure">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>
+        Mon Bureau Tout Propre
+    </h1>
+
+    <div class="app">
+        <form class="form">
+            <label for="surface">Surface : </label>
+            <input type="number" id="surface" min="1" required>
+            <label for="frequence">Fréquence : </label>
+            <select id="frequence" name="frequence">
+                <option value="0">Selectionner une option</option>
+                <option value="1">Une fois par semaine</option>
+                <option value="2">Deux fois par semaine</option>
+                <option value="5">Tous les jours</option>
+            </select>
+            <label for="options">Options : Vitres inclues ?</label>
+            <select id="options">
+                <option value="0">Selectionner une option</option>
+                <option value="1">Oui</option>
+                <option value="2">Non</option>
+            </select>
+            <div class="msg"></div>
+            <button class="valider">Valider</button>
+        </form>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
