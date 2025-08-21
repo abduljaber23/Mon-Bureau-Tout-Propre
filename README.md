@@ -13,7 +13,3 @@ Mon Bureau Tout Propre est un service de nettoyage de bureau sur mesure. Nous pr
 1. **Remplissez le formulaire** : Indiquez la surface de votre bureau, la fréquence de nettoyage souhaitée et les options supplémentaires.
 2. **Recevez votre devis** : Nous vous enverrons un devis personnalisé en fonction de vos besoins.
 3. **Planifiez votre nettoyage** : Une fois le devis accepté, nous planifions le nettoyage à votre convenance.
-
-## Contact
-
-Pour toute question ou demande d'information, n'hésitez pas à nous contacter via notre formulaire de contact.
